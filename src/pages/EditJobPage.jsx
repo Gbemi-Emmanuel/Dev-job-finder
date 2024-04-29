@@ -92,8 +92,7 @@ const EditJobPage = ({updateJobSubmit}) => {
               <label
                 htmlFor="description"
                 className="block text-gray-700 font-bold mb-2"
-                >Description</label
-              >
+                >Description</label>
               <textarea
                 id="description"
                 name="description"
